@@ -1,0 +1,804 @@
+:: StoryTitle
+Final Project
+
+
+:: StoryData
+{
+  "ifid": "5AFCA473-EE92-4482-A05B-3A422082708C",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: Aid Notice {"position":"675,375","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+The updated page loads slowly, as if it is doing you a favor.
+
+<div class="portal-box">
+  <div class="portal-heading">Revised Financial Aid Package</div>
+  Merit Scholarship: <strong>Removed</strong><br>
+  Need-Based Grant: <strong>Removed</strong><br>
+  Federal Loan Eligibility: <strong>Unchanged</strong><br>
+  Student Balance Due: <strong>$18,640</strong>
+</div>
+
+<div class="system-box">
+  Your account was reviewed through the University's Financial Aid Eligibility Verification Process. Based on the results of this review, your aid package has been adjusted.
+</div>
+
+That is all.
+
+No specific reason is listed. No one signs the message. There is only a small reference number in the corner:
+
+''Review Code: FA-27B''
+
+Near the bottom of the page, you find three options.
+
+[[Read the full explanation->Full Explanation]]
+
+[[Look for a way to appeal->Appeal Instructions]]
+
+[[Try to contact someone directly->Call Office]]
+
+
+:: Appeal Instructions {"position":"675,575","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+You open the appeal page expecting a form with clear questions.
+
+Instead, you find instructions.
+
+<div class="system-box">
+  Students who wish to request reconsideration of an aid decision may submit a written statement for additional review. Appeals should include any relevant context, supporting information, and explanation of why the current decision should be reconsidered.
+</div>
+
+<div class="alert-box">
+  <strong>Important</strong><br>
+  • Appeals are reviewed in the order received<br>
+  • Review times may vary<br>
+  • Submission does not guarantee reconsideration<br>
+  • Due to high volume, individualized updates may not be available
+</div>
+
+At the bottom of the page is a text box labeled:
+
+''Explain why you believe this decision should be reconsidered.''
+
+For a moment, you just stare at it.
+
+What are you even supposed to say when you do not know why the aid was taken away in the first place?
+
+<div class="deadline-box">
+  Tuition deadline: 17 days remaining
+</div>
+
+[[Write a careful, factual appeal->First Appeal Factual]]
+
+[[Write a personal, emotional appeal->First Appeal Emotional]]
+
+[[Write a firm, frustrated appeal->First Appeal Aggressive]]
+
+[[Leave the page and try calling the office instead->Call Office]]
+
+
+:: Appeal Submitted 1 {"position":"650,850","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+A small green check appears on the screen.
+
+''Your appeal has been received.''
+
+<div class="system-box">
+  Thank you for your submission. Appeals are reviewed in the order received. Current estimated review time is 3 to 5 business days.
+</div>
+
+No confirmation email arrives. No case manager is assigned. No one tells you what happens next.
+
+<div class="deadline-box">
+  Tuition deadline: 16 days remaining
+</div>
+
+For the rest of the day, you check your portal twice, then four more times, then once before bed.
+
+Nothing changes.
+
+[[Check again three days later->Three Days Later 1]]
+
+
+:: Appeal Submitted 2 {"position":"425,1575","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+Again, the green check mark appears.
+
+''Your appeal has been received.''
+
+<div class="system-box">
+  Thank you for your submission. Please allow additional time for processing.
+</div>
+
+No estimate. No confirmation that anything new will be reviewed. No indication that anyone saw your first appeal, let alone this one.
+
+<div class="deadline-box">
+  Tuition deadline: 11 days remaining
+</div>
+
+You refresh the portal later that afternoon.
+
+Then again that night.
+
+Then the next morning.
+
+[[Check the portal two days later->Second Appeal Response]]
+
+
+:: Call Office {"position":"925,675","size":"100,100"}
+You call the financial aid office.
+
+<img src="https://thumbs.dreamstime.com/b/view-smartphone-generic-incoming-phone-call-screen-user-interface-flat-style-design-vector-illustration-answer-end-buttons-186707941.jpg" class="passage-img">
+
+An automated voice thanks you for contacting Student Financial Services and tells you that call volume is unusually high. You are given four menu options, none of which clearly fit your situation.
+
+You press the closest one anyway.
+
+After eleven minutes on hold, someone answers. You explain that your aid was removed, that you do not know why, and that you need to speak to someone who can review the decision.
+
+There is a pause.
+
+Then the person says, in a careful, practiced tone, "If your account was adjusted through the eligibility review process, the appeal form is the best path forward."
+
+You ask if anyone can tell you what changed.
+
+"We do not have additional details on our end."
+
+You ask whether a person is reviewing the appeals.
+
+Another pause.
+
+"Your submission will be processed through the appropriate review channel."
+
+It is not really an answer.
+
+[[Go back and write an appeal->Appeal Instructions]]
+
+[[Go back to the response page->First Appeal Response]]
+
+
+:: Ending Drop Out {"position":"475,2250","size":"100,100"}
+You submit the withdrawal request.
+
+The confirmation arrives instantly.
+
+<img src="https://www.alphr.com/wp-content/uploads/2022/01/Withdrawal-Confirmation-1.png" class="passage-img">
+
+That is what finally breaks something in you. Not the loss of aid. Not the appeals. Not even the silence. It is the speed of this part. The way leaving is easier than being heard.
+
+Within minutes, your status changes. Housing notifications begin. Registration access disappears. The system that could not explain itself has no problem processing your exit.
+
+You are no longer enrolled.
+
+Nothing dramatic happens. No one calls. No exception is made at the last minute. The world does not stop because one student could not survive an opaque decision.
+
+That is part of what makes it feel so final.
+
+<div class="ending-box">
+  <strong>Ending: The System Keeps Moving</strong>
+</div>
+
+
+:: Ending Go Public {"position":"650,2350","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+The email is different from every message you have received so far.
+
+It comes from a named administrator.
+
+They write that, after an additional review of your case, your aid package has been reinstated pending further confirmation. They apologize for the confusion and invite you to contact the office directly with any questions.
+
+Your balance updates later that afternoon.
+
+The hold on your account disappears.
+
+You are staying in school.
+
+But the relief does not feel clean.
+
+Nothing in the message explains what was wrong before, what changed now, or why public attention succeeded where the formal appeal process failed. The system did not become fair. It became responsive once someone else was watching.
+
+You close the portal and sit there for a long time, wondering how many students never got this ending because no one saw what happened to them.
+
+<div class="ending-box">
+  <strong>Ending: Visibility Works Where Process Fails</strong>
+</div>
+
+
+:: Ending Loan {"position":"300,2250","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+You accept the loan.
+
+A confirmation page loads, followed by a revised balance that finally looks survivable. Not good. Not fair. Just survivable.
+
+You are staying in school.
+
+For the rest of the day, people treat this like a solved problem. The portal is satisfied. The deadline is satisfied. The university is satisfied.
+
+But nothing was actually resolved.
+
+You still do not know why your aid was removed. You still do not know whether anyone read your appeals. The only real answer the system gave you was this: if the process fails you, the cost becomes yours.
+
+You remain enrolled, but now the consequence has simply been pushed into the future, where it will collect interest.
+
+<div class="ending-box">
+  <strong>Ending: You Stay, But You Pay</strong>
+</div>
+
+
+:: First Appeal Aggressive {"position":"975,925","size":"100,100"}
+The longer you look at the screen, the more insulting the whole thing feels.
+
+<div class="system-box">
+  This decision was made without any clear explanation, and the appeal process provides almost no useful information. If my aid is being removed, I deserve to know why. A system that makes major financial decisions without transparency is not fair, and I am requesting immediate reconsideration and a specific explanation for this change.
+</div>
+
+You consider softening it, then decide not to.
+
+You hit submit.
+
+[[Submit the appeal->Appeal Submitted 1]]
+
+
+:: First Appeal Emotional {"position":"675,725","size":"100,100"}
+You stare at the blank box for a long time before typing what feels true.
+
+<div class="system-box">
+  I do not know how I am supposed to stay in school if this decision stands. I have worked hard to get here, and I cannot afford tuition, housing, or books without this aid. I am asking you to please review my case because this change puts my entire education at risk.
+</div>
+
+It feels vulnerable, maybe too vulnerable, but it is honest.
+
+You hit submit before you can rewrite it into something colder.
+
+[[Submit the appeal->Appeal Submitted 1]]
+
+
+:: First Appeal Factual {"position":"400,775","size":"100,100"}
+You take a breath and decide to keep the appeal as clear and factual as possible.
+
+<div class="system-box">
+  I am requesting reconsideration of my financial aid package. I have reviewed my account and do not understand the basis for the recent change. My enrollment status has not changed, and I am not aware of any issue with my submitted records. Without this aid, I will be unable to continue my education next semester. I respectfully ask for a review of this decision and any explanation that can be provided.
+</div>
+
+You read it twice, remove one sentence that sounds too emotional, and hit submit.
+
+[[Submit the appeal->Appeal Submitted 1]]
+
+
+:: First Appeal Response {"position":"550,1125","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+The message is short.
+
+<div class="system-box">
+  Thank you for your appeal. After further review, we are unable to make adjustments to your current financial aid package at this time. If you have additional information relevant to your case, you may submit one additional appeal for consideration.
+</div>
+
+No explanation of what was reviewed. No indication that anyone actually read what you wrote. No reference to any document, policy, or change in your account.
+
+<div class="deadline-box">
+  Tuition deadline: 13 days remaining
+</div>
+
+For a few seconds, you just stare at the screen.
+
+[[Write a second appeal->Second Appeal Intro]]
+
+[[Try calling the office->Call Office]]
+
+[[Do nothing for now and wait->Wait One More Day]]
+
+
+:: Full Explanation {"position":"400,600","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+You click the explanation link and are taken to a page that looks more legal than helpful.
+
+<div class="system-box">
+  Financial aid eligibility may be adjusted following review of academic, financial, enrollment, and verification-related factors. Reviews may include automated and manual processes intended to ensure compliance, consistency, and responsible allocation of institutional resources.
+</div>
+
+You read it twice.
+
+It still does not tell you what changed.
+
+Lower on the page, a bulleted list appears:
+
+• enrollment status changes  
+• conflicting financial records  
+• verification flags  
+• academic progress concerns  
+• risk review outcomes  
+
+None of the items are checked. None are explained. There is no indication which one applies to you.
+
+At the bottom of the screen is a final sentence:
+
+<div class="system-box">
+  If you believe this decision was made in error, you may submit an appeal for further review.
+</div>
+
+Further review by who is not clear.
+
+[[Look for a way to appeal->Appeal Instructions]]
+
+[[Go back to the aid page->Aid Notice]]
+
+
+:: Go Public Intro {"position":"775,1950","size":"100,100"}
+You start taking screenshots.
+
+The aid decision. The appeal instructions. The automated responses. The line that says ''System Processor.'' The message that says ''No New Information Detected.''
+
+Seen one at a time, each screen looks administrative and harmless.
+
+Taken together, they tell a different story.
+
+<img src="https://www.wikihow.com/images/thumb/4/45/Find-Screenshots-on-PC-Step-7.jpg/v4-460px-Find-Screenshots-on-PC-Step-7.jpg">
+
+You think about posting everything publicly. You think about sending it to a campus paper. You think about whether anyone will care unless the story becomes embarrassing for the university.
+
+<div class="deadline-box">
+  Tuition deadline: 8 days remaining
+</div>
+
+[[Post about it publicly and tag the university->Go Public Post]]
+
+[[Send the screenshots to a student journalist->Go Public Journalist]]
+
+
+:: Go Public Journalist {"position":"1000,2125","size":"100,100"}
+You send the screenshots and a short explanation to a student journalist.
+
+You expect nothing.
+
+But the next day, they respond. They say your case is specific, documented, and disturbing. They ask whether they can quote you and whether you know of any other students who have had similar experiences.
+
+By that evening, someone from the paper has already contacted the university for comment.
+
+The morning after that, you receive an email from Student Financial Services requesting that you contact the office regarding your case.
+
+[[Open the email->Ending Go Public]]
+
+
+:: Go Public Post {"position":"675,2175","size":"100,100"}
+You post the screenshots with a short explanation.
+
+You write that your aid was removed by an automated review, that your appeals were never meaningfully answered, and that no real person seemed able to explain the decision. You end by asking how many other students have gone through the same thing without saying anything.
+
+At first, nothing happens.
+
+Then a few other students reply.
+
+One says the same thing happened to them last year. Another says they gave up after the first appeal. Someone you do not know reposts it. By evening, the post has spread farther than you expected.
+
+The next morning, you wake up to an email from Student Financial Services requesting that you contact the office regarding your case.
+
+[[Open the email->Ending Go Public]]
+
+
+:: Loan Offer {"position":"325,2075","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+You click back into the financial aid page and open the only option that has not disappeared.
+
+<div class="portal-box">
+  <div class="portal-heading">Available Federal Loan Eligibility</div>
+  The amount offered does not fully replace what you lost, but it is enough to keep you enrolled if you cut other costs, pick up more work, and hope nothing else goes wrong.
+</div>
+
+You stare at the number for a long time.
+
+Taking the loan means staying in school.
+
+It also means carrying the cost of a decision you still do not understand.
+
+[[Accept the loan->Ending Loan]]
+
+[[Back away from the page->Remaining Options]]
+
+
+:: Remaining Options {"position":"550,1850","size":"100,100"}
+You sit with the screen open, doing the math in your head again even though the number has not changed.
+
+Without the aid, there is no realistic way to pay the full balance out of pocket.
+
+The system is done with you.
+
+But your life is not.
+
+<div class="deadline-box">
+  Tuition deadline: 9 days remaining
+</div>
+
+[[Accept the federal loan offer and stay enrolled->Loan Offer]]
+
+[[Prepare to withdraw from school->Withdraw Option]]
+
+[[Take screenshots and try to go public->Go Public Intro]]
+
+
+:: Review Details {"position":"250,1900","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+The review details page is almost empty.
+
+<div class="portal-box">
+  <div class="portal-heading">Appeal Review Summary</div>
+  Status: Closed<br>
+  Reviewer: <strong>System Processor</strong><br>
+  Category: Eligibility Verification<br>
+  Reason Code: AR2<br>
+  Outcome: No Change
+</div>
+
+At the bottom is a note:
+
+<div class="system-box">
+  Appeals may be closed when submitted materials do not materially alter eligibility outcomes under current review criteria.
+</div>
+
+You read the phrase ''System Processor'' again.
+
+Not counselor. Not committee. Not financial aid officer.
+
+System Processor.
+
+There is no name attached to your case.
+
+[[Go back->Remaining Options]]
+
+
+:: Second Appeal Aggressive {"position":"775,1450","size":"100,100"}
+You are done pretending the process makes sense.
+
+<div class="system-box">
+  This is my second appeal, and I still have not received any meaningful explanation for a decision that affects whether I can stay in school. If this process is supposed to be fair, then there should be transparency about why my aid was removed and who is reviewing these appeals. I am requesting immediate reconsideration and a clear explanation of the criteria used in my case.
+</div>
+
+You leave it as written.
+
+[[Submit the second appeal->Appeal Submitted 2]]
+
+
+:: Second Appeal Emotional {"position":"500,1400","size":"100,100"}
+This time, you stop trying to sound detached.
+
+<div class="system-box">
+  I am asking again because this process has left me with no real understanding of what happened or how to fix it. I am trying to stay in school, and every day that passes makes that harder. I cannot afford to lose this aid, and I do not know what else to do except ask someone to actually look at my case.
+</div>
+
+You read it once, feel embarrassed by how desperate it sounds, and submit it anyway.
+
+[[Submit the second appeal->Appeal Submitted 2]]
+
+
+:: Second Appeal Factual {"position":"225,1425","size":"100,100"}
+You decide to stay controlled and specific.
+
+<div class="system-box">
+  I am submitting an additional appeal because I still have not received a clear explanation for the removal of my aid. I am requesting clarification regarding the basis of this decision and a substantive review of my case. I have not knowingly changed my enrollment, financial, or academic status in a way that would justify this adjustment. Without reconsideration, I will be unable to remain enrolled.
+</div>
+
+It sounds formal, maybe too formal, but at least it cannot be dismissed as careless.
+
+[[Submit the second appeal->Appeal Submitted 2]]
+
+
+:: Second Appeal Intro {"position":"400,1200","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+You open the appeal page again.
+
+The same blank text box appears. The same instructions. The same warning that individualized updates may not be available.
+
+But one line stands out now:
+
+<div class="system-box">
+  You may submit one additional appeal for consideration.
+</div>
+
+One additional appeal.
+
+Whatever happens next is probably your last chance inside the system.
+
+<div class="deadline-box">
+  Tuition deadline: 12 days remaining
+</div>
+
+[[Write a careful, factual second appeal->Second Appeal Factual]]
+
+[[Write a more personal second appeal->Second Appeal Emotional]]
+
+[[Write a sharper, more forceful second appeal->Second Appeal Aggressive]]
+
+
+:: Second Appeal Response {"position":"375,1750","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+Two days later, there is another update in the portal.
+
+<div class="portal-box">
+  <div class="portal-heading">Appeal Status</div>
+  Closed
+</div>
+
+You open the message.
+
+<div class="system-box">
+  Thank you for your additional appeal. After review of the information provided, no change can be made to your current aid determination. This decision is final.
+</div>
+
+Below the message is a thin gray line of text that looks like it was not meant for you:
+
+''Routing Flag: AR2 / No New Information Detected''
+
+For the first time, the system reveals something specific, and it only makes the whole process feel worse.
+
+No new information detected.
+
+As if the point of an appeal is not to be heard, but to produce the right kind of input.
+
+<div class="deadline-box">
+  Tuition deadline: 9 days remaining
+</div>
+
+[[Click the review details link->Review Details]]
+
+[[Look at your remaining options->Remaining Options]]
+
+
+:: Start {"position":"675,225","size":"100,100"}
+<div class="title-box">
+  <h1>The Appeal That Never Gets Read</h1>
+  <div class="subtitle">An interactive narrative about automation, appeals, and accountability</div>
+</div>
+
+The email arrives at 8:14 a.m. while you are half awake and scrolling through notifications before class.
+
+''Subject: Update to Your Financial Aid Status''
+
+At first, you assume it is routine. A missing form. A reminder. Something minor.
+
+Then you open the student portal.
+
+<img src="https://college.harvard.edu/sites/default/files/styles/large/public/2022-07/Applicant%20Portal%20Image.png?itok=ru3OoF3E" class="passage-img">
+
+Your scholarship is gone.
+
+Your grant is gone.
+
+<div class="alert-box">
+  Your financial aid package has been updated based on a recent eligibility review.
+</div>
+
+"Your financial aid package has been updated based on a recent eligibility review."
+
+No explanation. No name. No number to call.
+
+Just a new balance you cannot pay.
+
+<div class="deadline-box">
+  Payment deadline: 18 days remaining
+</div>
+
+If this decision stands, you will not be able to cover tuition, housing, or books for next semester.
+
+At the bottom of the page is a single button.
+
+[[View updated aid decision->Aid Notice]]
+
+
+
+
+:: Three Days Later 1 {"position":"375,975","size":"100,100"}
+Three days later, you check the portal before you even get out of bed.
+
+There is finally an update.
+
+<div class="portal-box">
+  <div class="portal-heading">Appeal Status</div>
+  Reviewed
+</div>
+
+Your stomach drops before you even click it.
+
+[[Open the response->First Appeal Response]]
+
+
+:: Wait One More Day {"position":"725,1250","size":"100,100"}
+You tell yourself that maybe the system just needs more time. Maybe someone will follow up. Maybe the first response was automatic and a real person will reach out next.
+
+The next day, nothing changes.
+
+No email. No message. No call.
+
+<div class="deadline-box">
+  Tuition deadline: 12 days remaining
+</div>
+
+Waiting has started to feel like its own decision.
+
+[[Write a second appeal->Second Appeal Intro]]
+
+[[Try calling the office->Call Office]]
+
+
+:: Withdraw Option {"position":"575,2000","size":"100,100"}
+<div class="small-label">Student Financial Services Portal</div>
+
+You open the withdrawal page and immediately feel sick.
+
+The university presents it as a clean administrative step.
+
+<div class="portal-box">
+  <div class="portal-heading">Submit Withdrawal Request</div>
+  Reason: Financial<br>
+  Effective Date: End of Current Term
+</div>
+
+There is a checkbox confirming that you understand the academic and financial consequences of leaving.
+
+Everything about the page is calm, organized, and easy to complete.
+
+Much easier than the appeal ever was.
+
+[[Submit the withdrawal request->Ending Drop Out]]
+
+[[Go back->Remaining Options]]
+
+
+:: StoryStylesheet [stylesheet]
+tw-story {
+  font-family: "Georgia", serif;
+  background: linear-gradient(180deg, #eef2f7 0%, #e3e9f2 100%);
+  color: #1f2937;
+  font-size: 1.08em;
+  line-height: 1.7;
+  padding: 2.5rem;
+}
+
+tw-passage {
+  background: #ffffff;
+  max-width: 820px;
+  margin: 2rem auto;
+  padding: 2.2rem 2.4rem;
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.10);
+  border: 1px solid #dbe3ee;
+}
+
+tw-link {
+  color: #1d4ed8;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+tw-link:hover {
+  color: #1e3a8a;
+  text-decoration: underline;
+}
+
+tw-sidebar {
+  display: none;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #d6deea;
+  margin: 1.5rem 0;
+}
+
+.title-box {
+  background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%);
+  color: white;
+  padding: 1rem 1.2rem;
+  border-radius: 12px;
+  margin-bottom: 1.4rem;
+  box-shadow: 0 10px 24px rgba(30, 58, 138, 0.18);
+}
+
+.title-box h1 {
+  margin: 0;
+  font-size: 1.7em;
+  font-family: Arial, sans-serif;
+}
+
+.subtitle {
+  margin-top: 0.35rem;
+  opacity: 0.9;
+  font-size: 0.98em;
+  font-family: Arial, sans-serif;
+}
+
+.alert-box {
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  border-left: 6px solid #dc2626;
+  color: #7f1d1d;
+  padding: 0.95rem 1rem;
+  margin: 1rem 0;
+  border-radius: 10px;
+}
+
+.portal-box {
+  background: #f8fafc;
+  border: 1px solid #dbe3ee;
+  border-radius: 10px;
+  padding: 1rem 1.1rem;
+  margin: 1rem 0;
+  font-family: Arial, sans-serif;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.6);
+}
+
+.portal-heading {
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 0.55rem;
+  font-size: 1.02em;
+}
+
+.system-box {
+  background: #f3f4f6;
+  border: 1px solid #d1d5db;
+  border-left: 5px solid #6b7280;
+  border-radius: 10px;
+  padding: 0.95rem 1rem;
+  margin: 1rem 0;
+  font-family: Arial, sans-serif;
+  color: #374151;
+}
+
+choice-note {
+  display: block;
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+  color: #1e3a8a;
+  padding: 0.9rem 1rem;
+  border-radius: 10px;
+  margin: 1rem 0;
+  font-family: Arial, sans-serif;
+}
+
+.deadline-box {
+  background: linear-gradient(135deg, #fff7ed 0%, #ffedd5 100%);
+  border: 1px solid #fdba74;
+  border-left: 6px solid #ea580c;
+  color: #9a3412;
+  padding: 0.95rem 1rem;
+  margin: 1rem 0;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+  font-weight: 600;
+}
+
+.ending-box {
+  background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+  border: 1px solid #cbd5e1;
+  border-left: 6px solid #475569;
+  padding: 1rem 1.1rem;
+  margin-top: 1.5rem;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.small-label {
+  display: inline-block;
+  font-family: Arial, sans-serif;
+  font-size: 0.8em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #64748b;
+  margin-bottom: 0.55rem;
+}
